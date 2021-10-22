@@ -1,0 +1,25 @@
+@startuml
+class Main {
+  'display the list using overload
+  display(incomplete, complete)
+  display(incomplete)
+  display(complete)
+}
+Main --o Note
+
+class Note {
+   'functions to add and remove lists
+   addList(title, description)
+   removeList(List)
+   saveList(List)
+
+}
+
+class editList {
+      'edit description and due data in seperate functions
+      editDescription(List)
+      editDueDate(List)
+
+
+}
+@enduml
