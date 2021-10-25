@@ -1,0 +1,25 @@
+
+S
+java:S1172"=Remove these unused method parameters "list", "user", "edit".(ÌŠê‹
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+X
+java:S1172"=Remove these unused method parameters "list", "user", "edit".(ò²²Ñûÿÿÿÿ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+X
+java:S1172"=Remove these unused method parameters "list", "user", "edit".(òÖÒşÿÿÿÿ
+H
+java:S1168 "+Return an empty collection instead of null.(¥¹ï8ñÂŠ¦Ë/
+\
+java:S1172#"?Remove these unused method parameters "list", "user", "number".(§ÏŞí8ïÂŠ¦Ë/
+H
+java:S1168("+Return an empty collection instead of null.(¥¹ï8ÑÕ §Ë/
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÌŠê‹
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ò²²Ñûÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(òÖÒşÿÿÿÿ
+†
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§ÏŞí

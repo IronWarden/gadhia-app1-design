@@ -1,0 +1,7 @@
+
+b
+java:S1172"ERemove these unused method parameters "list", "user", "path", "name".(ÌĞÿ8±ş¿¦Ë/
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8²ş¿¦Ë/
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÌĞÿ
