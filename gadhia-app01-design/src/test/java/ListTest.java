@@ -3,8 +3,6 @@
  *  Copyright 2021 Rishi Gadhia
  */
 
-package baseline;
-
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
