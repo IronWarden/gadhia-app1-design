@@ -3,8 +3,6 @@
  *  Copyright 2021 Rishi Gadhia
  */
 
-package baseline;
-
 import java.util.ArrayList;
 
 public class SaveList {

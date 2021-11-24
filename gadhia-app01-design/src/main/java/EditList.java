@@ -2,14 +2,13 @@
  *  UCF COP3330 Summer 2021 Application Assignment 1 Solution
  *  Copyright 2021 Rishi Gadhia
  */
-package baseline;
 
 import java.util.ArrayList;
 
 public class EditList {
     // all members belong in this class because they all modify a single to-do list
     // takes a single list and allows the user to manipulate the content
-    public ArrayList<List> editDescription(List list, List user,  String edit) {
+    public ArrayList<List> editDescription(List list, List user, String edit) {
         // takes the list of lists and the to-do list the user want to edit
         // take in the list as a string and use regex to edit only that part of the string
         //  return the new list of lists
